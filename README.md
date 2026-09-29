@@ -45,11 +45,7 @@ I enjoy learning new technologies, developing applications and creating solution
 
 <h2><strong><font color="#D946A8">Languages & Tools I Use</font></strong></h2>
 
-<div align="center">
-
-<img src="./icons/Github-Carousel.gif" width="700" alt="Technology Carousel"/>
-
-</div>
+<img src="./icons/Github-Carousel.gif" width="800" alt="Technology Carousel"/>
 
 <br>
 
