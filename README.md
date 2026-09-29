@@ -1,134 +1,122 @@
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,45:d946a8,75:f472b6,100:f9a8d4&height=230&section=header&text=ZEANNE%20SAAVEDRA&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Computer%20Systems%20Engineering%20Student&descAlignY=58&descSize=17" width="100%"/>
 
 <br>
 
-<!-- ANIMATED TEXT -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&duration=2400&pause=850&color=F472B6&center=true&vCenter=true&width=900&height=70&lines=Computer+Systems+Engineering+Student;Front-End+Development;Back-End+Development;Artificial+Intelligence;Database+Development;Computer+Networks+%7C+CCNA;UI%2FUX+%26+Prototyping;Scrum+%26+Agile+Methodologies;Software+Development+%7C+Technology+%7C+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=21&duration=2400&pause=850&color=F472B6&center=true&vCenter=true&width=900&height=70&lines=Computer+Systems+Engineering+Student;Software+Development;Front-End+Development;Back-End+Development;Artificial+Intelligence;Database+Development;Computer+Networks+%7C+CCNA;UI%2FUX+%26+Prototyping;Scrum+%26+Agile+Methodologies;Technology+%7C+Innovation" alt="Typing SVG"/>
 
 <br><br>
 
-<!-- SOCIALS -->
 <a href="https://github.com/zsaavedra-15">
-<img src="https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-zsaavedra--15-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;
 
 <a href="https://www.linkedin.com/in/zeanne-saavedra-120796419/">
-<img src="https://img.shields.io/badge/LinkedIn-d946a8?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/LinkedIn-Zeanne%20Saavedra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
+<br>
+
 ---
 
-<div align="center">
+## About Me
 
-## ✦ About Me
+I'm a Computer Systems Engineering student interested in software development, databases, artificial intelligence and technology.
 
-</div>
-
-<p align="center">
-I'm a Computer Systems Engineering student interested in
-<strong>software development, databases, artificial intelligence and technology.</strong>
-<br>
 I enjoy learning new technologies, building applications and turning ideas into functional solutions.
-</p>
-
-<br>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&duration=2200&pause=700&color=E879B9&center=true&vCenter=true&width=800&lines=Always+learning+%E2%9C%A8;Building+new+ideas+%F0%9F%92%97;Turning+code+into+solutions+%F0%9F%92%BB;Technology+%7C+Creativity+%7C+Innovation" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=2200&pause=900&color=D946A8&center=true&vCenter=true&width=700&height=50&lines=Always+learning;Building+new+ideas;Turning+code+into+solutions;Technology+%7C+Creativity+%7C+Innovation" alt="Animated Text"/>
 
 </div>
 
+<br>
+
 ---
+
+## Languages & Tools I Use
 
 <div align="center">
 
-##  Languages & Tools I Use
-
 <br>
 
-<img src="./icons/tech-carousel.gif" width="950">
+<img src="./icons/tech-carousel.gif" width="950" alt="Technology Carousel"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=2100&pause=650&color=F9A8D4&center=true&vCenter=true&width=900&lines=Java+%7C+C%23+%7C+JavaScript+%7C+PHP;HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+Oracle+%7C+MongoDB+%7C+SQL+Server;Git+%7C+GitHub+%7C+Visual+Studio+%7C+VS+Code;Postman+%7C+Figma;CCNA+%7C+Scrum+%7C+Agile" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&duration=2200&pause=800&color=F472B6&center=true&vCenter=true&width=900&height=80&lines=Java+%7C+C%23+%7C+JavaScript+%7C+PHP;HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+Oracle+%7C+MongoDB+%7C+SQL+Server;Git+%7C+GitHub+%7C+Visual+Studio+%7C+VS+Code;Postman+%7C+Figma;CCNA+%7C+Scrum+%7C+Agile" alt="Technologies"/>
 
 </div>
 
+<br>
+
 ---
 
+## What I Work With
+
 <div align="center">
-
-##  What I Work With
-
-<br>
 
 <table>
 <tr>
 
-<td align="center" width="220">
+<td width="25%" align="center">
 
-### 
+### Software Development
 
-**Software Development**
+Front-End Development
 
-<br>
+Back-End Development
 
-Front-End  
-Back-End  
-Web Applications  
+Web Applications
+
 Object-Oriented Programming
 
 </td>
 
-<td align="center" width="220">
+<td width="25%" align="center">
 
-### 
+### Databases
 
-**Databases**
+SQL Server
 
-<br>
+MySQL
 
-SQL Server  
-MySQL  
-Oracle  
+Oracle
+
 MongoDB
 
 </td>
 
-<td align="center" width="220">
+<td width="25%" align="center">
 
-### 
+### Computer Networks
 
-**Computer Networks**
+Network Fundamentals
 
-<br>
+CCNA
 
-Networking  
-CCNA  
-Network Fundamentals  
 Connectivity
+
+Network Configuration
 
 </td>
 
-<td align="center" width="220">
+<td width="25%" align="center">
 
-### 
+### Design & UX
 
-**Design & UX**
+UI/UX
 
-<br>
+Figma
 
-UI/UX  
-Figma  
-Prototyping  
+Prototyping
+
 Web Interfaces
 
 </td>
@@ -138,47 +126,44 @@ Web Interfaces
 
 </div>
 
+<br>
+
 ---
+
+## Areas of Interest
 
 <div align="center">
 
-##  Areas of Interest
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=2300&pause=800&color=F472B6&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Software+Development;%E2%9C%A6+Artificial+Intelligence;%E2%9C%A6+Database+Development;%E2%9C%A6+Computer+Networks;%E2%9C%A6+UI%2FUX+%26+Prototyping;%E2%9C%A6+Technology+%26+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2300&pause=900&color=D946A8&center=true&vCenter=true&width=850&height=120&lines=Software+Development;Artificial+Intelligence;Database+Development;Computer+Networks;UI%2FUX+%26+Prototyping;Technology+%26+Innovation" alt="Areas of Interest"/>
 
 </div>
 
+<br>
+
 ---
+
+## Let's Connect
 
 <div align="center">
 
-##  Let's Connect
+I'm always interested in learning, creating and connecting with people who enjoy technology.
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/zeanne-saavedra-120796419/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-d946a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/zsaavedra-15">
-<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-0f0f0f?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=16&duration=2400&pause=900&color=F472B6&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Let's+build+something+great+%F0%9F%92%97;Keep+learning.+Keep+building.+Keep+innovating." />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=800&height=50&lines=Thanks+for+visiting+my+profile;Let's+build+something+great;Keep+learning.+Keep+building.+Keep+innovating." alt="Final Animation"/>
 
 </div>
 
 <br>
 
-<!-- FOOTER -->
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,30:f472b6,60:d946a8,100:0f0f0f&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-</div>
