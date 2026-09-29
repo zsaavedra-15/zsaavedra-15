@@ -45,77 +45,11 @@ I enjoy learning new technologies, developing applications and creating solution
 
 <h2><strong><font color="#D946A8">Languages & Tools I Use</font></strong></h2>
 
-<img src="./icons/Github-Carousel" width="950" alt="Technology Carousel"/>
+<img src="./icons/Github-Carousel.gif" width="950" alt="Technology Carousel"/>
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&duration=2200&pause=800&color=F472B6&center=true&vCenter=true&width=900&height=80&lines=Java+%7C+C%23+%7C+JavaScript+%7C+PHP;HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+Oracle+%7C+MongoDB+%7C+SQL+Server;Git+%7C+GitHub+%7C+Visual+Studio+%7C+VS+Code;Figma;CCNA+%7C+Scrum+%7C+Agile" alt="Technologies"/>
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<h2><strong><font color="#D946A8">What I Work With</font></strong></h2>
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-<strong><font color="#F472B6">Software Development</font></strong>
-
-<br><br>
-
-Front-End Development  
-Back-End Development  
-Web Applications  
-Object-Oriented Programming
-
-</td>
-
-<td width="25%" align="center">
-
-<strong><font color="#F472B6">Databases</font></strong>
-
-<br><br>
-
-SQL Server  
-MySQL  
-Oracle  
-MongoDB
-
-</td>
-
-<td width="25%" align="center">
-
-<strong><font color="#F472B6">Computer Networks</font></strong>
-
-<br><br>
-
-Network Fundamentals  
-CCNA  
-Connectivity  
-Network Configuration
-
-</td>
-
-<td width="25%" align="center">
-
-<strong><font color="#F472B6">Design & UX</font></strong>
-
-<br><br>
-
-UI/UX  
-Figma  
-Prototyping  
-Web Interfaces
-
-</td>
-
-</tr>
-</table>
 
 </div>
 
