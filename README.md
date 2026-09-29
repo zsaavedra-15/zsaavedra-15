@@ -18,105 +18,98 @@
 
 </div>
 
-<br>
-
----
-
-## About Me
-
-I'm a Computer Systems Engineering student interested in software development, databases, artificial intelligence and technology.
-
-I enjoy learning new technologies, developing applications and creating solutions through technology.
-
-<br>
+<br><br>
 
 <div align="center">
+
+<h2><strong><font color="#D946A8">About Me</font></strong></h2>
+
+<p>
+I'm a Computer Systems Engineering student interested in software development,
+databases, artificial intelligence and technology.
+</p>
+
+<p>
+I enjoy learning new technologies, developing applications and creating solutions through technology.
+</p>
+
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=19&duration=2200&pause=900&color=D946A8&center=true&vCenter=true&width=800&height=50&lines=AI+%7C+Innovation+%7C+Development+%7C+Technology" alt="Areas Animation"/>
 
 </div>
 
-<br>
-
----
-
-## Languages & Tools I Use
+<br><br>
 
 <div align="center">
 
+<h2><strong><font color="#D946A8">Languages & Tools I Use</font></strong></h2>
+
+<img src="./icons/Github-Carousel" width="950" alt="Technology Carousel"/>
+
 <br>
-
-<img src="./icons/github-tech-carousel.gif" width="950" alt="Technology Carousel"/>
-
-<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=17&duration=2200&pause=800&color=F472B6&center=true&vCenter=true&width=900&height=80&lines=Java+%7C+C%23+%7C+JavaScript+%7C+PHP;HTML+%7C+CSS+%7C+Bootstrap;MySQL+%7C+Oracle+%7C+MongoDB+%7C+SQL+Server;Git+%7C+GitHub+%7C+Visual+Studio+%7C+VS+Code;Figma;CCNA+%7C+Scrum+%7C+Agile" alt="Technologies"/>
 
 </div>
 
-<br>
-
----
-
-## What I Work With
+<br><br>
 
 <div align="center">
+
+<h2><strong><font color="#D946A8">What I Work With</font></strong></h2>
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-### Software Development
+<strong><font color="#F472B6">Software Development</font></strong>
 
-Front-End Development
+<br><br>
 
-Back-End Development
-
-Web Applications
-
+Front-End Development  
+Back-End Development  
+Web Applications  
 Object-Oriented Programming
 
 </td>
 
 <td width="25%" align="center">
 
-### Databases
+<strong><font color="#F472B6">Databases</font></strong>
 
-SQL Server
+<br><br>
 
-MySQL
-
-Oracle
-
+SQL Server  
+MySQL  
+Oracle  
 MongoDB
 
 </td>
 
 <td width="25%" align="center">
 
-### Computer Networks
+<strong><font color="#F472B6">Computer Networks</font></strong>
 
-Network Fundamentals
+<br><br>
 
-CCNA
-
-Connectivity
-
+Network Fundamentals  
+CCNA  
+Connectivity  
 Network Configuration
 
 </td>
 
 <td width="25%" align="center">
 
-### Design & UX
+<strong><font color="#F472B6">Design & UX</font></strong>
 
-UI/UX
+<br><br>
 
-Figma
-
-Prototyping
-
+UI/UX  
+Figma  
+Prototyping  
 Web Interfaces
 
 </td>
@@ -126,25 +119,23 @@ Web Interfaces
 
 </div>
 
-<br>
-
----
-
-## Areas of Focus
+<br><br>
 
 <div align="center">
+
+<h2><strong><font color="#D946A8">Areas of Focus</font></strong></h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&duration=2300&pause=900&color=D946A8&center=true&vCenter=true&width=850&height=100&lines=Software+Development;Artificial+Intelligence;Database+Development;Computer+Networks;UI%2FUX+%26+Prototyping;Technology+%26+Innovation" alt="Areas of Focus"/>
 
 </div>
 
-<br>
-
----
-
-## Let's Connect
+<br><br>
 
 <div align="center">
+
+<h2><strong><font color="#D946A8">Let's Connect</font></strong></h2>
+
+<br>
 
 <a href="https://www.linkedin.com/in/zeanne-saavedra-120796419/">
 <img src="https://img.shields.io/badge/LinkedIn-D946A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
